@@ -2,3 +2,11 @@
 	path = l10n_ar
 	url = git@github.com:odoo-mastercore/l10n_ar.git
 	branch = fiscal_report
+[submodule "cost_centers_mgmt"]
+	path = cost_centers_mgmt
+	url = git@github.com:odoo-mastercore/cost_centers_mgmt.git
+	branch = 12.0
+[submodule "odoo_server_tools"]
+	path = odoo_server_tools
+	url = git@github.com:odoo-mastercore/odoo_server_tools.git
+	branch = 12.0
