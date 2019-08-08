@@ -10,3 +10,7 @@
 	path = odoo_server_tools
 	url = git@github.com:odoo-mastercore/odoo_server_tools.git
 	branch = 12.0
+[submodule "account-analytic"]
+	path = account-analytic
+	url = https://github.com/OCA/account-analytic.git
+	branch = 12.0
