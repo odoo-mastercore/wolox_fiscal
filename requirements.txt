@@ -1,0 +1,8 @@
+facturacion_electronica>=0.5.4
+#suds-jurko
+#num2words
+#xlsxwriter
+#pillow
+xmltodict>=0.12.0
+dicttoxml>=1.7.4
+requests>=2.21.0
