@@ -22,3 +22,7 @@
 	path = l10n_cl_fe
 	url = https://gitlab.com/dansanti/l10n_cl_fe.git
 	branch = 12.0
+[submodule "addons-konos"]
+	path = addons-konos
+	url = git@github.com:KonosCL/addons-konos.git
+	branch = 12.0
