@@ -18,3 +18,7 @@
 	path = odoo-hr-payroll
 	url = https://github.com/hibou-io/odoo-hr-payroll.git
 	branch = 11.0
+[submodule "l10n_cl_fe"]
+	path = l10n_cl_fe
+	url = https://gitlab.com/dansanti/l10n_cl_fe.git
+	branch = 12.0
