@@ -17,3 +17,8 @@
 	path = OCA/l10n-chile
 	url = git@github.com:OCA/l10n-chile.git
 	branch = 12.0
+
+[submodule "odoo-mastercore/wolox_addons"]
+	path = odoo-mastercore/wolox_addons
+	url = git@github.com:odoo-mastercore/wolox_addons.git
+	branch = 12.0
