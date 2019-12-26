@@ -2,3 +2,8 @@
 	path = l10n_ar
 	url = git@github.com:odoo-mastercore/l10n_ar.git
 	branch = fiscal_report
+
+[submodule "OCA/connector"]
+	path = OCA/connector
+	url = git@github.com:OCA/connector.git
+	branch = 12.0
